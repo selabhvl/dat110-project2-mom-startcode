@@ -2,7 +2,7 @@
 
 ### Organisation
 
-This project work is to be undertaken in **groups of 2-4 students** - preferably the same groups as for project 1.
+This project work is to be undertaken in **groups of 2-5 students** - preferably the same groups as for project 1.
 
 Discussions among the groups are allowed, but the code handed in by the group should be the work of the group members - and not members of other groups.
 
